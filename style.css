@@ -215,3 +215,12 @@ body.light .todo-items-info{
 body.light input#todo-input {
     color: var(--dark);
 }
+
+
+body.light .todo-items-wrapper {
+  box-shadow: 2px 3px 10px 0 rgb(144, 144, 144);
+}
+
+body.light .todo-item:hover  {
+  box-shadow: 2px 3px 10px 0 rgb(219, 219, 219);
+}
