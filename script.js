@@ -71,3 +71,10 @@ function markCompleted(id){
 
 }
 getItems()
+
+// Change Theme
+function changeTheme(){
+    let sun = document.querySelector('.theme img')
+    sun.classList.toggle('dark')
+    document.body.classList.toggle('light')
+}
