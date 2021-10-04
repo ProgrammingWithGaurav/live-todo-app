@@ -222,7 +222,7 @@ body.light input#todo-input {
 
 
 body.light .todo-items-wrapper {
-  box-shadow: 2px 3px 10px 0 rgb(144, 144, 144);
+  box-shadow: 2px 3px 10px 0 rgb(221, 221, 221);
 }
 
 body.light .todo-item:hover  {
